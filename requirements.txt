@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+numba
+zstandard
+matplotlib
+pytest
+huggingface_hub   # only for scripts/download_shards.py

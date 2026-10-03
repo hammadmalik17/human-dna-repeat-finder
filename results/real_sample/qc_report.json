@@ -1,0 +1,37 @@
+{
+ "rows_in": 10,
+ "bad_id": 0,
+ "bad_length": 0,
+ "invalid_char_rows": 0,
+ "rows_with_N": 0,
+ "rows_valid": 10,
+ "strand_counts": {
+  "+": 7,
+  "-": 3
+ },
+ "duplicate_coordinate_rows_removed": 0,
+ "windows_unique": 10,
+ "total_bases": 2550,
+ "nucleotide_counts": {
+  "A": 729,
+  "C": 584,
+  "G": 597,
+  "T": 640
+ },
+ "gc_mean": 0.4631372549019607,
+ "gc_sd": 0.09236022618117806,
+ "softmask_fraction_bases": 0.11215686274509803,
+ "windows_fully_unmasked": 0.3,
+ "windows_>50%_masked": 0.0,
+ "windows_fully_masked": 0.0,
+ "identical_sequence_duplicates": 0,
+ "windows_per_chrom": {
+  "chr17": 3,
+  "chr6": 2,
+  "chr4": 1,
+  "chr10": 1,
+  "chr7": 1,
+  "chr9": 1,
+  "chr1": 1
+ }
+}

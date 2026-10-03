@@ -1,0 +1,7 @@
+detector,share_of_mask_covered,uniquely_explains_mask,unmasked_bases_called_frac
+tandem,0.0,0.0,0.0
+low_complexity (DUST),0.3006993006993007,0.3006993006993007,0.00441696113074205
+"high-copy k-mer (k=13, >=4)",0.0,0.0,0.0
+seed+extend (k=13->11),0.0,0.0,0.0
+UNION (all detectors),0.3006993006993007,,0.00441696113074205
+unexplained by any detector,0.6993006993006993,,
